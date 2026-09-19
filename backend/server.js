@@ -109,7 +109,9 @@ async function start() {
   });
 }
 
-start();
+if (require.main === module) {
+  start();
+}
 
 process.on('unhandledRejection', (err) => {
   console.error('[server] Unhandled promise rejection:', err.message);
