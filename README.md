@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DevCollab AI — AI-Powered Developer Collaboration Platform
 
 A full-stack developer collaboration platform: projects, Kanban boards, sprint planning, team chat, notifications, and three AI-assisted tools (code review, bug detection, commit message generation) — built on **React + Vite** and **Node/Express + MongoDB**.
@@ -162,3 +163,7 @@ Dockerizing later is just adding a `Dockerfile` per app and a `docker-compose.ym
 | Tailwind classes not applying / unstyled page | Confirm `frontend/postcss.config.js` and `tailwind.config.js` are present (they are, by default) and that you ran `npm install` in `frontend/`, not just `backend/`. |
 
 If you hit something not listed here, check the backend terminal output first — nearly every failure mode in this app surfaces a specific, readable error message there rather than failing silently.
+=======
+# devcollab-ai
+An AI-powered developer collaboration platform combining project management, real-time team communication, and intelligent development tools. Features AI code review, bug detection, Kanban boards, sprint planning, issue tracking, role-based access, GitHub integration, CI/CD, and AWS cloud deployment.
+>>>>>>> 14d235bb9929c7bd5287471513e4a874decef534
