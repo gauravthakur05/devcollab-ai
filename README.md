@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # DevCollab AI - AI-Powered Developer Collaboration Platform
 
 A full-stack developer collaboration platform: projects, Kanban boards, sprint planning, team chat, notifications, and three AI-assisted tools (code review, bug detection, commit message generation) — built on **React + Vite** and **Node/Express + MongoDB**.
